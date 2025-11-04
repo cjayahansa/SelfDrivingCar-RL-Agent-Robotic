@@ -17,3 +17,6 @@ The goal is to teach a robotic car to drive by itself — learning from trial an
 - 🎥 Optional video recording of trained agent performance
 
 ---
+## 🎥 Demo
+[▶️ Watch the demo video](https://drive.google.com/file/d/19LnJE8vsqDPPrsia46gQgomd0ZCh8QQG/view?usp=drive_link)
+
